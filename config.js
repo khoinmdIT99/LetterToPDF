@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","fileName":"letter.pdf","bounds":[[1448,2048]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
